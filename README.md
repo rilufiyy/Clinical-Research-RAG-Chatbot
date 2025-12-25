@@ -51,10 +51,10 @@ The chatbot:
 
 ```text
 .
-├── data/                         # Clinical research documents
-├── faiss_irt_nightmare_depression/  # Saved FAISS vector store
-├── chatbot.py                    # Main RAG chatbot pipeline
-├── knowledge_base_manager.py     # Knowledge base update & maintenance
-├── .env                          # API keys (not committed)
+├── data/                         
+├── faiss_irt_nightmare_depression/ 
+├── chatbot.py                    
+├── knowledge_base_manager.py     
+├── .env                          
 ├── requirements.txt
 └── README.md
